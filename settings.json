@@ -3,7 +3,7 @@
 {
     "workbench.colorTheme": "Min Dark",
     "symbols.hidesExplorerArrows": false,
-    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontFamily": "JetBrains Mono",//precisa instalar a fonte no pc
     "editor.fontSize": 14,
     "editor.lineHeight": 1.8,
     "editor.rulers": [80, 120],
